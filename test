@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <title>Tinon kotisivu</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Tervetuloa kotisivuilleni</h1>
+
+  <h2>Kuka olen</h2>
+  <p>Hei! Nimeni on Tino, olen 16-vuotias tieto- ja viestintätekniikan opiskelija. Olen kiinnostunut teknologiasta, ohjelmoinnista ja erityisesti musiikista, joka herättää voimakkaita tunteita. Pidän raskaasta metallista ja aggressiivisesta elektronisesta musiikista.</p>
+
+  <h2>Opinnot</h2>
+  <p>Opiskelen tieto- ja viestintätekniikkaa ammatillisessa oppilaitoksessa. Opintoihini sisältyy muun muassa ohjelmointia, verkkotekniikkaa, tietokoneiden huoltoa sekä digitaalista viestintää.</p>
+
+  <h2>Harrastukset</h2>
+  <p>Vapaa-ajallani harrastan musiikin kuuntelua, kitaran soittoa ja pelaamista. Olen kiinnostunut etenkin raskaasta musiikista kuten deathstepistä, speedcoresta ja hybrididubstepistä.</p>
+  <img src="img/Kynät.jpg" alt="Harrastuskuva" />
+
+
+  <h2>Työkokemus</h2>
+  <p>Olen ollut TET-jaksolla K-Rauta Naumasella, jossa opin asiakaspalvelun ja varastotyön perusteita. Työtehtäviini kuului hyllyjen täyttöä, tuotteiden esillepanoa ja yleistä siisteyden ylläpitoa.</p>
+  <p>Lisäksi olen koulun kautta työskennellyt Gigantissa. Siellä sain kokemusta elektroniikkatuotteiden esittelystä, asiakaspalvelusta ja varaston järjestämisestä.</p>
+
+  <h2>Työnäytteet</h2>
+  <p>Tässä on linkkejä projekteihin, joita olen tehnyt koulussa tai harrastuksena.</p>
+  <ul>
+    <li><a href="https://github.com/kayttajanimeni/projekti" target="_blank">Tekoälyprojekti GitHubissa</a></li>
+    <li><a href="https://codepen.io/kayttajanimeni" target="_blank">HTML/CSS-harjoitus CodePenissä</a></li>
+  </ul>
+  <img src="https://i.postimg.cc/kGj3nTgn/image.png" alt="Koodausprojekti">
+
+  <h2>Tietokoneiden kokoonpano</h2>
+  <p>Olen kiinnostunut tietokoneiden kokoonpanosta ja olen koonnut koneita sekä koulussa että vapaa-ajalla. Tässä esimerkki yhdestä rakentamastani kokoonpanosta:</p>
+  <img src="https://i.postimg.cc/5yQjvQQW/660dbf2e-5a6b-4086-a5d2-8ea4c7e98532.jpg" alt="Tietokoneen kokoonpano">
+
+</body>
+</html>
+
+
